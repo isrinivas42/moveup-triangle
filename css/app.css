@@ -1,0 +1,44 @@
+
+       #myCanvas{
+        border:5px solid #000000;
+       }
+
+       .droptarget {
+        float: left; 
+        width: 100px; 
+        height: 35px;
+        margin: 15px;
+        padding: 10px;
+        border: 1px solid #aaaaaa;
+      }
+
+    .triangle {
+        
+        width: 0;
+        height: 0;
+        border: solid 20px;
+        border-color: transparent transparent blue transparent;
+         /* /float:left;  */
+    }
+    .triangle2 {
+        width: 0;
+        height: 0;
+        border: solid 50px;
+        border-color: transparent transparent brown transparent;
+        /* float:left; */
+    }
+    .triangle3 {
+        width: 0;
+        height: 0;
+        border: solid 70px;
+        border-color: transparent transparent green transparent;
+         /* float:left; */
+    }
+    
+    .triangle4 {
+        width: 0;
+        height: 0;
+        border: solid 100px;
+        border-color: transparent transparent orange transparent;
+         /* float:left; */
+    }
